@@ -1,1 +1,4 @@
 /venv/
+block-insertion-train/*
+checkpoints/*
+block-insertion-test/*
